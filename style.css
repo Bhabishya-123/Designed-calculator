@@ -107,7 +107,7 @@ input:active{
 
 /*added class after togglebtn clicked*/
 .cont{
-   background-color: rgb(160, 111, 20);
+   background-color: white;
 }
 .scrn{
     background-color: white;
